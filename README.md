@@ -9,3 +9,5 @@
 % The 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2016).
 
 % Author: Xiaoqian Wang
+
+% Main function: bistochasticKcut.m
